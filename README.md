@@ -1,4 +1,4 @@
-#UROP Project
+# UROP Project
 
 Run the following commands in the terminal to setup
 
