@@ -1,4 +1,6 @@
-# Run the following commands in the terminal to setup
+#UROP Project
+
+Run the following commands in the terminal to setup
 
 ```
 pip install poetry
