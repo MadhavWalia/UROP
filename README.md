@@ -11,11 +11,11 @@ poetry config virtualenvs.in-project true
 ```
 
 ```
-poetry install
+poetry shell
 ```
 
 ```
-poetry shell 
+poetry install
 ```
 
 All packages will be downloaded to run the jupyter notebook
